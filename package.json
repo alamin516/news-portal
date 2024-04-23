@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "html-react-parser": "^5.1.10",
+    "jose": "^5.2.4",
+    "js-cookie": "^3.0.5",
+    "next": "14.1.4",
+    "nextjs-toploader": "^1.6.11",
+    "nodemailer": "^6.9.13",
+    "quill": "^2.0.0",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-quill": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "prisma": "^5.12.1"
+  }
+}
